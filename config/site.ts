@@ -9,17 +9,17 @@ export const siteConfig = {
       href: "/",
     },
     {
-      label: "Docs",
-      href: "/docs",
+      label: "Cart",
+      href: "/cart",
     },
     {
-      label: "Pricing",
-      href: "/pricing",
+      label: "To be arrived...",
+      href: "/orders",
     },
-    {
-      label: "Blog",
-      href: "/blog",
-    },
+    // {
+    //   label: "Blog",
+    //   href: "/blog",
+    // },
     {
       label: "About",
       href: "/about",
@@ -30,26 +30,26 @@ export const siteConfig = {
       label: "Profile",
       href: "/profile",
     },
-    {
-      label: "Dashboard",
-      href: "/dashboard",
-    },
-    {
-      label: "Projects",
-      href: "/projects",
-    },
-    {
-      label: "Team",
-      href: "/team",
-    },
-    {
-      label: "Calendar",
-      href: "/calendar",
-    },
-    {
-      label: "Settings",
-      href: "/settings",
-    },
+    // {
+    //   label: "Dashboard",
+    //   href: "/dashboard",
+    // },
+    // {
+    //   label: "Projects",
+    //   href: "/projects",
+    // },
+    // {
+    //   label: "Team",
+    //   href: "/team",
+    // },
+    // {
+    //   label: "Calendar",
+    //   href: "/calendar",
+    // },
+    // {
+    //   label: "Settings",
+    //   href: "/settings",
+    // },
     {
       label: "Help & Feedback",
       href: "/help-feedback",
